@@ -8,4 +8,4 @@
 
 ## 🌍 Onde me encontrar:
 - 💼 [LinkedIn](https://www.linkedin.com/in/alisson-rocha-1044b5371/)
-- 📂 [Meus Repositórios](https://github.com/SEU-USUARIO)
+- 📂 [Meus Repositórios](https://github.com/alissonsec)
